@@ -17,7 +17,7 @@
       "salary": 55000
     },
     {
-      "id": 1,
+      "id": 3,
       "firstName": "romi",
       "lastName": "dubey",
       "email": "vikas.doe@example.com",
@@ -25,11 +25,11 @@
       "salary": 90000
     },
     {
-      "id": 2,
+      "id": 4,
       "firstName": "priya",
       "lastName": "patel",
       "email": "tanu@example.com",
-      "department": "Marketing",
+      "department": "Operation",
       "salary": 88000
     }
   ]
